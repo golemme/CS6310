@@ -1,0 +1,7 @@
+% There are 4 prerequisites. Each row has a course (numbered from 1 to 18)  followed by a colon (:) and a list of space separated prerequisite courses. 
+
+16:   4 
+1:   12
+13:   9
+7:   3
+
